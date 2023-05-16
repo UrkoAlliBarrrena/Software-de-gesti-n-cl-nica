@@ -1,4 +1,4 @@
-# Software-de-gesti-n-cl-nica
+# Software de gestión clínica
 Tarea  02:  Evaluación continua: Proceso iterativo e incremental 
 
 Nombres:
